@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+
+    <string name="x_place">X = 0</string>
+    <string name="y_place">y = 0</string>
+    <string name="z_place">z = 0</string>
+    <string name="g">Gs = 0</string>
+
+    <string name="updated_x_place">X = </string>
+    <string name="updated_y_place">Y = </string>
+    <string name="updated_z_place">Z = </string>
+    <string name="updated_g">Gs = </string>
+
+    <string name="action_settings">Settings</string>
+</resources>
